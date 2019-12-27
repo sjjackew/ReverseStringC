@@ -1,0 +1,10 @@
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.exe
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.deps.json
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.runtimeconfig.json
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.runtimeconfig.dev.json
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.dll
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\bin\Debug\netcoreapp3.1\ReverseStringC.pdb
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\obj\Debug\netcoreapp3.1\ReverseStringC.AssemblyInfoInputs.cache
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\obj\Debug\netcoreapp3.1\ReverseStringC.AssemblyInfo.cs
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\obj\Debug\netcoreapp3.1\ReverseStringC.dll
+C:\Users\sjjac\source\repos\ReverseStringC\ReverseStringC\obj\Debug\netcoreapp3.1\ReverseStringC.pdb
